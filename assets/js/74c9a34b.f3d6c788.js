@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpoints=self.webpackChunkpoints||[]).push([[3260],{5911:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/web3-points-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
